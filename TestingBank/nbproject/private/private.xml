@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="false"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>DAL/adminDatabase.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>47</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/TestingBank/Tests/bankLogikkTest.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/DAL/adminDatabaseStub.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/DAL/bankDatabase.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/DAL/adminDatabase.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/BLL/adminLogikk.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/Tests/adminLogikkTest.php</file>
+            <file>file:/C:/xampp/htdocs/TestingBank/Tests/hentTransaksjonerTest.php</file>
+        </group>
+    </open-files>
+</project-private>
